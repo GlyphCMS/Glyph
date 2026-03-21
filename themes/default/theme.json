@@ -1,0 +1,7 @@
+{
+  "name": "Default",
+  "version": "0.2.0",
+  "author": "Glyph",
+  "description": "The default theme shipped with Glyph. Clean panels, readable typography, and polished dark styling.",
+  "screenshot": "assets/screenshot.svg"
+}

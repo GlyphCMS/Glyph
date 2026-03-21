@@ -1,0 +1,8 @@
+{
+  "name": "Hello Banner",
+  "version": "0.4.0",
+  "author": "Glyph",
+  "description": "Example plugin that adds a small banner to the admin dashboard and frontend footer, with its own admin settings page and lifecycle hooks.",
+  "homepage": "https://glyphcms.com",
+  "required_plugins": []
+}
